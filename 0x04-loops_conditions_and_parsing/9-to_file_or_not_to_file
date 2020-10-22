@@ -18,4 +18,4 @@ then
     fi
 else
     echo "$file file does not exists"
-    fi
+fi
