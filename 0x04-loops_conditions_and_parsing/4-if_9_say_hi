@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# This script is displaying "Holberton School" 10 times with while loop
+# but for the 9th iteration, displays Holberton School and then Hi on a new line
+
+contador=0
+termina=10
+while [ $termina -gt $contador ]
+do
+    if [[ "$contador" == '9' ]]
+    then
+	echo "Hi"
+    fi
+    echo "Holberton School"
+    let contador=$contador+1
+done
