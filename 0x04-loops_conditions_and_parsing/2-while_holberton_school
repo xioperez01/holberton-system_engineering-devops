@@ -2,7 +2,7 @@
 # This script is displaying "Holberton School" 10 times with while loop
 contador=0
 termina=10
-while [ $termina -ge $contador ]
+while [ $termina -gt $contador ]
 do
     echo "Holberton School"
     let contador=$contador+1
