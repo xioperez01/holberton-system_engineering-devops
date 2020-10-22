@@ -1,5 +1,5 @@
-# 0x04. Loops, conditions and parsing #
-## Resources ##
+# 0x04. Loops, conditions and parsing :monocle_face: #
+## Resources :books: ##
 **Read or watch:**
 * [Variable assignment and arithmetic](https://tldp.org/LDP/abs/html/ops.html)
 * [Comparison operators](https://tldp.org/LDP/abs/html/comparison-ops.html)
@@ -13,7 +13,7 @@
 * while
 * until
 * if
-## Learning Objectives ##
+## Learning Objectives :nerd_face: ##
 ### General ###
 * How to create SSH keys
 * What is the advantage of using **#!/usr/bin/env bash** over **#!/bin/bash**
@@ -21,5 +21,5 @@
 * How to use **if, else, elif** and **case** condition statements
 * How to use the **cut** command
 * What are files and other comparison operators, and how to use them
-## Autors ##
+## Autors :ribbon: ##
 [Angie Pérez](https://twitter.com/xiommyperez)
