@@ -10,6 +10,7 @@ then
     then
 	echo "$file file is not empty"
     else
+    then
 	echo "$file file is empty"
     fi
     if [ -f "$file" ]
