@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# This script is displaying "Holberton School" 10 times with until loop
+contador=0
+termina=10
+
+until [ $termina -le $contador ]
+do
+  echo "Holberton School"
+  let contador=$contador+1
+done
