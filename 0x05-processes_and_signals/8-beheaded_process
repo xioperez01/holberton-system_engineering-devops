@@ -4,4 +4,4 @@
 #Requirements:
 #You can not use kill or killall
 
-pkill -KILL -f "7-highlander"
+pkill --9 -f "7-highlander"
