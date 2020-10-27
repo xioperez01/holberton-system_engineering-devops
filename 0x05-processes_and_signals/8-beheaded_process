@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+#stops 4-to_infinity_and_beyond process.
+#Requirements:
+#You can not use kill or killall
+
+pkill -9 -f "7-highlander"
