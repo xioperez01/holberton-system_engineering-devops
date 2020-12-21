@@ -14,7 +14,7 @@ Read or watch:
 * [HTTP header](https://www.techopedia.com/definition/27178/http-header)
 * [Debian/Ubuntu HAProxy packages](https://haproxy.debian.net/)
 ## Environment
-* Language: puppet
+* Language: shell
 * OS: Ubuntu 14.04 LTS
 * Style guidelines: [shellcheck](https://github.com/koalaman/shellcheck)
 ## Autors :ribbon: ##
