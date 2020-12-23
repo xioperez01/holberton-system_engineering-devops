@@ -7,5 +7,3 @@ sudo service nginx restart
 REDIRECT_301="\\\trewrite ^/redirect_me https://google.com permanent;"
 sudo sed -i "41i $REDIRECT_301" /etc/nginx/sites-available/default
 sudo service nginx restart
-
-
