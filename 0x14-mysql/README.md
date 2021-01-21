@@ -7,6 +7,8 @@ A database is usually controlled by a database management system (DBMS). Collect
 MySQL is an open source database management software that helps users store, organize, and retrieve data.
 ### Redundancy
 Data redundancy is the duplication or rewriting of information with the intention of increasing system reliability, usually in the form of storage backup or failure testing.
+
+![](https://github.com/xioperez01/holberton-system_engineering-devops/blob/master/0x14-mysql/MySQL.png)
 # Resources
 * [What is a primary-replica cluster](https://www.digitalocean.com/community/tutorials/how-to-choose-a-redundancy-plan-to-ensure-high-availability#sql-replication)
 * [MySQL primary replica setup](https://www.digitalocean.com/community/tutorials/how-to-set-up-master-slave-replication-in-mysql)
