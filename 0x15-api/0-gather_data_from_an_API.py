@@ -20,7 +20,7 @@ if __name__ == '__main__':
     for todo in todos.json():
         if todo.get('userId') == int(argv[1]):
             TOTAL_NUM_OF_TASKS += 1
-            if todo.get('completed') is True:
+            if todo.get('completed'):
                 NUMBER_OF_DONE_TASKS += 1
                 TASK_TITLE.append(todo.get('title'))
 
