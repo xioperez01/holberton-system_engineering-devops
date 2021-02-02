@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 """export data in the JSON format. """
-from sys import argv
-import requests
 import json
+import requests
+from sys import argv
+
 
 if __name__ == '__main__':
     users = requests.get("http://jsonplaceholder.typicode.com/users")
